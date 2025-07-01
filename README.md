@@ -1,21 +1,29 @@
-# 📊 Sales Dashboard Design – Power BI Project
+# 📊 Sales Dashboard Design – Power BI
 
-## 📌 Project Overview
-This project involves designing an interactive **Sales Dashboard** using **Power BI** to visualize and analyze key sales metrics. It helps identify trends, high-performing regions, and product performance, assisting business decision-making.
+## 📌 Overview
+This project is a Sales Dashboard designed in Power BI using the Superstore Sales dataset. It includes visuals like bar charts, pie charts, line graphs, and KPIs to help analyze sales trends across categories and regions.
 
 ## 🛠️ Tools Used
 - Power BI
-- Excel / CSV dataset (Superstore Sales)
-- DAX (for custom measures and KPIs)
+- Superstore_Sales.csv
+- DAX formulas for KPIs
 
-## 🎯 Key Features
-- Total Sales, Profit, and Quantity KPIs
-- Sales Breakdown by:
-  - Region
-  - Category and Sub-Category
-  - Customer Segment
-- Time-series analysis (Order Date)
-- Slicers to filter by Region, Segment, or Category
-- Interactive visuals: bar charts, line graphs, pie charts
+## 📈 Key Features
+- Total Sales, Profit, and Quantity
+- Sales by Region and Segment
+- Category-wise performance
+- Time-based trend analysis
+- Filters and slicers
 
-## 📂 Project Structure# Sales-Dashbord-design
+## 📁 Files in the Repo
+- `Superstore_Sales.csv`: Dataset used
+- `sales dashboard.pbix`: Power BI dashboard file
+- `Screenshot.png`: Dashboard preview
+
+## 📸 Dashboard Preview
+![Dashboard](./Screenshot.png)
+
+## 🙋‍♀️ Author
+**T. Srilaxmi**  
+Aspiring Data Analyst  
+[GitHub](https://github.com/Srilaxmi67-20) | [LinkedIn](https://www.linkedin.com/in/tirumala-srilaxmi)
